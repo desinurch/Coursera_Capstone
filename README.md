@@ -1,5 +1,5 @@
-# Coursera_Capstone
-Capstone Project for Data Science Course
+# Car Crash Severity for Autonomous Driving Capstone Project
+_Capstone Project for Data Science Course_
 
 ## Overview
 
@@ -11,7 +11,7 @@ Detection of car crash severity with the background:
 	* Comparison of best machine learning methods to classify severity
 * Model is also attractive to __build an alert system__ for city infrastructure workers (paramedics, police, firefighter, etc)
 
-## Data: 
+## Data
 - Seattle GeoData. The data is an open data from the Seattle government, collected from 2004-2020. ([Collisions_OD](https://data-seattlecitygis.opendata.arcgis.com/datasets/5b5c745e0f1f48e7a53acec63a0022ab_0?geometry=-124.788%2C47.371%2C-119.732%2C48.018)). 
 - Data specifications: 40 attributes, 221,144 collection of accidents. Severity indicator:
 	* 3: Fatality — High Probability
